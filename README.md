@@ -1,3 +1,4 @@
 # A simple Math Library
 
-Just an Add function in Javascript
+Add function in Javascript
+RandFloor function in Javascript given a seed.
