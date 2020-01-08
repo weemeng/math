@@ -23,3 +23,12 @@ const result = math.randfloor(5);
 ```
 `math.add(number,number)`
 ```
+
+## Publish
+
+```
+0. Edit package
+0. Commit changes and push to remote repository
+0. Bump up version with 'npm version <major|minor|patch>'
+0. Publish on npm with 'npm publish --access public'
+```
