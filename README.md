@@ -17,11 +17,13 @@ const result = math.add(1,1);
 const result = math.randfloor(5);
 ```
 
-
 ## API
 
 ```
 `math.add(number,number)`
+`math.randfloor(number)`
+`math.subtract(number)`
+`math.multiply(number)`
 ```
 
 ## Publish
